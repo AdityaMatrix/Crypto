@@ -20,7 +20,3 @@ Current Prices API
 URL: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Ctether%2Cethereum%2Clitecoin%2Ccardano%2Cdogecoin&vs_currencies=usd&include_24hr_change=true
 Description: Fetches current prices and 24-hour changes for specified cryptocurrencies.
 
-Historical Data API
-
-URL: https://api.coingecko.com/api/v3/coins/{id}/market_chart?vs_currency=usd&days=30
-Description: Fetches historical price data for the past 30 days for a specific cryptocurrency.
